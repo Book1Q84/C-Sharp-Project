@@ -1,0 +1,279 @@
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\CompanyManageSystem.exe.config
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\CompanyManageSystem.exe
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\CompanyManageSystem.pdb
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\obj\Debug\CompanyManageSystem.csprojAssemblyReference.cache
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\obj\Debug\CompanyManageSystem.Properties.Resources.resources
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\obj\Debug\CompanyManageSystem.csproj.GenerateResource.cache
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\obj\Debug\CompanyManageSystem.exe
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\obj\Debug\CompanyManageSystem.pdb
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\obj\Debug\CompanyManageSystem.LoginForm.resources
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\obj\Debug\CompanyManageSystem.MainForm.resources
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\MySql.Data.dll
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\Renci.SshNet.dll
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\System.Buffers.dll
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\System.Memory.dll
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\Zstandard.Net.dll
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\Google.Protobuf.xml
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\MySql.Data.xml
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\Renci.SshNet.xml
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\System.Buffers.xml
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\System.Memory.xml
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\obj\Debug\CompanyManageSystem.csproj.CopyComplete
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Employee_Form.resources
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Product_Form.resources
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Unit_Form.resources
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Product_Add_Form.resources
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Employee_Add_Form.resources
+C:\Users\tianw\OneDrive - 888888\2019-2020第二学期实验\框架编程技术\课程设计\CompanyManageSystem\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Unit_Add_Form.resources
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\CompanyManageSystem.exe.config
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.exe
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.pdb
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\CompanyManageSystem.exe
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\CompanyManageSystem.pdb
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\mscorlib.dll
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\MySql.Data.dll
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\Renci.SshNet.dll
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\System.Buffers.dll
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\System.Memory.dll
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\System.Net.Http.dll
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\Zstandard.Net.dll
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\Google.Protobuf.xml
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\MySql.Data.xml
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\Renci.SshNet.xml
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\System.Buffers.xml
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\System.Memory.xml
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\System.Net.Http.xml
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\normidna.nlp
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\normnfc.nlp
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\normnfd.nlp
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\normnfkc.nlp
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\normnfkd.nlp
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.csprojResolveAssemblyReference.cache
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Employee_Add_Form.resources
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Employee_Form.resources
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Product_Add_Form.resources
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Product_Form.resources
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Unit_Add_Form.resources
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Unit_Form.resources
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.LoginForm.resources
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.MainForm.resources
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Properties.Resources.resources
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.csproj.GenerateResource.Cache
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.goods_back_Form.resources
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.goods_statistics_Form.resources
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.goods_analyse_Form.resources
+C:\Users\lwz\Documents\Tencent Files\839087594\FileRecv\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.goods_input_form.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\CompanyManageSystem.exe.config
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.exe
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.pdb
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\CompanyManageSystem.exe
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\CompanyManageSystem.pdb
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\mscorlib.dll
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\MySql.Data.dll
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\Renci.SshNet.dll
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\System.Buffers.dll
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\System.Memory.dll
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\System.Net.Http.dll
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\Zstandard.Net.dll
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\Google.Protobuf.xml
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\MySql.Data.xml
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\Renci.SshNet.xml
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\System.Buffers.xml
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\System.Memory.xml
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\System.Net.Http.xml
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\normidna.nlp
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\normnfc.nlp
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\normnfd.nlp
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\normnfkc.nlp
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\bin\Debug\normnfkd.nlp
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.csprojResolveAssemblyReference.cache
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Employee_Add_Form.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Employee_Form.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Product_Add_Form.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Product_Form.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Unit_Add_Form.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Unit_Form.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.kucun.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.goods_back_Form.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.goods_statistics_Form.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.goods_analyse_Form.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.goods_input_form.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.LoginForm.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.MainForm.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Properties.Resources.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.kucun_baojing.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.kucun_tiaojian.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.kucun_chaxun.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.csproj.GenerateResource.Cache
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.weihu.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.shezhi_add.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.shezhi_del.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.weihu_shezhi.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.SaleForm.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.saleanalyse.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.saleReturn.resources
+C:\Users\lwz\Desktop\主界面和基础信息（2020年6月7日）\CompanyManageSystem\obj\Debug\CompanyManageSystem.saleSum.resources
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\CompanyManageSystem.exe.config
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.exe
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.pdb
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\CompanyManageSystem.exe
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\CompanyManageSystem.pdb
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\K4os.Compression.LZ4.dll
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\K4os.Hash.xxHash.dll
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\mscorlib.dll
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\MySql.Data.dll
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\System.Buffers.dll
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\System.Memory.dll
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\System.Net.Http.dll
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\Ubiety.Dns.Core.dll
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\Zstandard.Net.dll
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\K4os.Compression.LZ4.xml
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\K4os.Hash.xxHash.xml
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\MySql.Data.xml
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\System.Buffers.xml
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\System.Memory.xml
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\System.Net.Http.xml
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\zh-Hans\mscorlib.resources.dll
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\normidna.nlp
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\normnfc.nlp
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\normnfd.nlp
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\normnfkc.nlp
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\bin\Debug\normnfkd.nlp
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.csprojResolveAssemblyReference.cache
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Employee_Add_Form.resources
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Employee_Form.resources
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Product_Add_Form.resources
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Product_Form.resources
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Unit_Add_Form.resources
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Unit_Form.resources
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.kucun.resources
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.weihu.resources
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.goods_back_Form.resources
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.goods_statistics_Form.resources
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.goods_analyse_Form.resources
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.goods_input_Form.resources
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.LoginForm.resources
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.MainForm.resources
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Properties.Resources.resources
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.SaleForm.resources
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.saleanalyse.resources
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.saleReturn.resources
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.saleSum.resources
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.kucun_baojing.resources
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.kucun_tiaojian.resources
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.kucun_chaxun.resources
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.csproj.GenerateResource.Cache
+D:\大三下\框架编程\期末\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.shezhi.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\CompanyManageSystem.exe.config
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.exe
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.pdb
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\CompanyManageSystem.exe
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\CompanyManageSystem.pdb
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\mscorlib.dll
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\MySql.Data.dll
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\Renci.SshNet.dll
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\System.Buffers.dll
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\System.Memory.dll
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\System.Net.Http.dll
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\Zstandard.Net.dll
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\Google.Protobuf.xml
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\MySql.Data.xml
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\Renci.SshNet.xml
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\System.Buffers.xml
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\System.Memory.xml
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\System.Net.Http.xml
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\normidna.nlp
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\normnfc.nlp
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\normnfd.nlp
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\normnfkc.nlp
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\bin\Debug\normnfkd.nlp
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.csprojResolveAssemblyReference.cache
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Employee_Add_Form.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Employee_Form.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Product_Add_Form.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Product_Form.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Unit_Add_Form.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Basic_Info_Unit_Form.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.kucun.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.weihu.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.goods_back_Form.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.goods_statistics_Form.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.goods_analyse_Form.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.goods_input_Form.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.LoginForm.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.MainForm.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.Properties.Resources.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.SaleForm.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.saleanalyse.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.saleReturn.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.saleSum.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.shezhi.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.kucun_baojing.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.kucun_tiaojian.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.kucun_chaxun.resources
+C:\Users\lwz\Desktop\C#（2020.06.09）\CompanyManageSystem\obj\Debug\CompanyManageSystem.csproj.GenerateResource.Cache

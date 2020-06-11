@@ -1,0 +1,9 @@
+D:\大三下\框架编程\实验七\weihu\weihu\bin\Debug\weihu.exe.config
+D:\大三下\框架编程\实验七\weihu\weihu\bin\Debug\weihu.exe
+D:\大三下\框架编程\实验七\weihu\weihu\bin\Debug\weihu.pdb
+D:\大三下\框架编程\实验七\weihu\weihu\obj\Debug\weihu.csprojResolveAssemblyReference.cache
+D:\大三下\框架编程\实验七\weihu\weihu\obj\Debug\weihu.Form1.resources
+D:\大三下\框架编程\实验七\weihu\weihu\obj\Debug\weihu.Properties.Resources.resources
+D:\大三下\框架编程\实验七\weihu\weihu\obj\Debug\weihu.csproj.GenerateResource.Cache
+D:\大三下\框架编程\实验七\weihu\weihu\obj\Debug\weihu.exe
+D:\大三下\框架编程\实验七\weihu\weihu\obj\Debug\weihu.pdb
